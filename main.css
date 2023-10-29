@@ -1,0 +1,141 @@
+.material-symbols-outlined {
+color: #ffffff;
+}
+.ntua_kitchen_info1 {
+    background-color: #474747;
+    color: #ffffff;
+    padding: 0px;
+}
+.logo{
+    text-decoration: none;
+    vertical-align: middle;
+    border: 0;
+    padding: 5px;
+    margin: 5px;
+    background-color: #585858;
+    border-radius: 100px;
+}
+.ntua_kitchen_info1 li{
+    display: inline-block;
+    vertical-align: middle
+}
+.ntua_kitchen_info1 ul{
+    display: inline-block;
+    padding: 10px;
+    margin: 0px;
+    vertical-align: middle;
+}
+.ntua_kitchen_info1 p{
+    vertical-align: middle;
+    width: 200px;
+    font-size: 16px;
+}
+.ntua_kitchen {
+    padding: 10px;
+}
+.ntua_kitchen ul{
+    display: inline-block;
+    margin: 50px;
+    vertical-align: middle;
+}
+.ntua_kitchen li{
+    display: inline-block;
+    vertical-align: middle
+}
+.kitchen {
+    font-size: 100px;
+    text-align: center;
+    margin: 80px;
+}
+.food {
+    font-size: 20px;
+    text-align: center;
+    margin: 0px;
+}
+input{
+    border: 3;
+    background-color: #ffffff;
+    color: #2C2F24;
+    border-radius: 128px;
+    padding: 22px;
+    margin: 10px;
+    width: 128px;
+    height: 64px;
+    font-size: 16px;
+    gap: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+input:hover{
+    border: 0;
+    background-color: #AD343E;
+    color: #ffffff;
+    border-radius: 50px;
+    padding: 22px;
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.button {
+    border: 0;
+    background-color: #ffffff;
+    color: #2C2F24;
+    border-radius: 128px;
+    width: 64px;
+    height: 32px;
+    padding: 4px,16px,4px,16px;
+    gap: 10px;
+    font-size: 16px;
+}
+.button:hover {
+    border: 0;
+    background-color: #DBDFD0;
+    color: #2C2F24;
+    border-radius: 128px;
+    width: 64px;
+    height: 32px;
+    padding: 4px,16px,4px,16px;
+    gap: 10px;
+    font-size: 16px;
+}
+.button1 {
+    border: 0;
+    background-color: #ffffff;
+    color: #2C2F24;
+    border-radius: 128px;
+    width: 96px;
+    height: 32px;
+    padding: 4px,16px,4px,16px;
+    gap: 10px;
+    font-size: 16px;
+}
+.button1:hover {
+    border: 0;
+    background-color: #DBDFD0;
+    color: #2C2F24;
+    border-radius: 128px;
+    width: 96px;
+    height: 32px;
+    padding: 4px,16px,4px,16px;
+    gap: 10px;
+    font-size: 16px;
+}
+.button2 {
+    border: 3;
+    background-color: #ffffff;
+    color: #2C2F24;
+    border-radius: 128px;
+    width: 112px;
+    height: 48px;
+    left: 2000px;
+}
+.button2:hover {
+    border: 0;
+    background-color: #2C2F24;
+    color: #ffffff;
+    border-radius: 128px;
+    border-radius: 128px;
+    width: 112px;
+    height: 48px;
+    left: 2000px;
+}
