@@ -1,16 +1,44 @@
+body{
+    background-image: url(img/廚房bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .material-symbols-outlined {
 color: #ffffff;
+display: inline-block;
+vertical-align: middle;
 }
 .ntua_kitchen_info1 {
     background-color: #474747;
     color: #ffffff;
     padding: 0px;
+    text-align: center;
+}
+.info1{
+    display: inline-block;
+    margin-right: 600px;
+}
+.info2{
+    display: inline-block;
 }
 .logo{
     text-decoration: none;
     vertical-align: middle;
     border: 0;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    margin: 5px;
+    background-color: #585858;
+    border-radius: 100px;
+}
+.logo1{
+    text-decoration: none;
+    vertical-align: middle;
+    border: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 5px;
     margin: 5px;
     background-color: #585858;
     border-radius: 100px;
@@ -26,31 +54,54 @@ color: #ffffff;
     vertical-align: middle;
 }
 .ntua_kitchen_info1 p{
-    vertical-align: middle;
     width: 200px;
     font-size: 16px;
 }
 .ntua_kitchen {
     padding: 10px;
-}
-.ntua_kitchen ul{
+    text-align: center;
     display: inline-block;
-    margin: 50px;
     vertical-align: middle;
+    background-color: #ffffff;
+    background-size: cover;
 }
 .ntua_kitchen li{
     display: inline-block;
     vertical-align: middle
 }
+.kit1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.kit2{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.kit3{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 180px;
+    margin-bottom: 20px;
+}
 .kitchen {
     font-size: 100px;
     text-align: center;
-    margin: 80px;
+    margin-top: 150px;
 }
 .food {
     font-size: 20px;
     text-align: center;
-    margin: 0px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 input{
     border: 3;
@@ -75,6 +126,9 @@ input:hover{
     font-size: 16px;
     display: inline-block;
     vertical-align: middle;
+}
+.middle{
+    text-align: center;
 }
 .button {
     border: 0;
